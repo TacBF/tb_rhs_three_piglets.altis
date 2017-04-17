@@ -1,0 +1,64 @@
+// Greece - Hellenic Police
+// Author: Clay
+
+uniforms[] =
+{
+// UNIFORMS
+
+	// Infantry
+	{"u_Police_man_base", {__ICE_gear_allRoles}},
+
+	// Sniper
+	//{"u_Police_man_base", {__ICE_gear_Sniper}},
+
+	// SL
+	{"U_Police_man_base_officer", {__ICE_gear_SL}},
+	
+	// Diver
+	{"U_B_Wetsuit", {__ICE_gear_Diver}},
+
+    // E.K.A.M
+    {"U_Swat_man_base_blk", {__ICE_gear_MG}},
+	{"rhs_uniform_g3_blk", {__ICE_gear_MG}},
+    {"U_Swat_man_base", {__ICE_gear_MG}},
+
+
+
+// VESTS
+
+	// Infantry
+	{"police_vest", {__ICE_gear_allRoles}},
+
+	// E.K.A.M
+	{"swat_vest_blk", {__ICE_gear_MG}},
+	
+	// SL
+	{"V_TacVest_blk_POLICE", {__ICE_gear_SL}},
+	
+	// Diver
+	{"V_RebreatherB", {__ICE_gear_Diver}},
+
+// HELMETS
+
+	// Infantry
+	{"H_Cap_police_t_blu", {__ICE_gear_Inf}},
+	{"Police_Beret", {__ICE_gear_SL}},
+	{"rhs_zsh12_black", {__ICE_gear_MG}},
+	{"H_Cap_police_t_blu", {__ICE_gear_Marksman, __ICE_gear_Sniper}},
+	{"rhsusf_opscore_bk_pelt", {__ICE_gear_Diver}},
+
+
+	// Crewman
+	//{"rhsusf_cvc_green_helmet", {__ICE_gear_Crewman}},
+
+	// Pilot
+	{"rhs_gssh18", {__ICE_gear_Pilot}},
+
+// GLASSES
+    {"Mask_M40", {__ICE_gear_MG}},
+	{"G_B_Diving", {__ICE_gear_Diver}},
+	{"rhs_googles_black", {__ICE_gear_allRoles}},
+	{"rhs_googles_orange", {__ICE_gear_allRoles}},
+	{"rhs_googles_yellow", {__ICE_gear_Sniper}},
+	{"rhs_googles_clear", {__ICE_gear_allRoles}}
+};

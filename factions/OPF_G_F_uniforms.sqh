@@ -1,0 +1,78 @@
+// Generic Gang Name
+// Author: omL
+
+uniforms[] =
+{
+// UNIFORMS
+
+	// Infantry
+	{"U_I_C_Soldier_Bandit_2_F", {__ICE_gear_allRoles}},
+	{"U_I_C_Soldier_Bandit_3_F", {__ICE_gear_allRoles}},
+	{"U_I_C_Soldier_Bandit_5_F", {__ICE_gear_allRoles}},
+	{"U_C_man_sport_2_F", {__ICE_gear_allRoles}},
+	{"U_C_Poloshirt_tricolour", {__ICE_gear_allRoles}},
+    {"U_C_Poloshirt_burgundy", {__ICE_gear_allRoles}},
+	{"U_C_Poloshirt_redwhite", {__ICE_gear_allRoles}},
+    {"U_C_Poloshirt_stripped", {__ICE_gear_allRoles}},
+	{"U_C_Poloshirt_salmon", {__ICE_gear_allRoles}},
+    {"U_C_Poloshirt_tricolour", {__ICE_gear_allRoles}},
+	{"U_I_G_resistanceLeader_F", {__ICE_gear_MG}},
+	{"U_I_C_Soldier_Para_5_F", {__ICE_gear_MG}},
+	{"U_I_C_Soldier_Para_4_F", {__ICE_gear_MG}},
+	{"U_B_survival_uniform", {__ICE_gear_MG}},
+	{"U_I_G_Story_Protagonist_F", {__ICE_gear_MG}},
+	{"U_I_C_Soldier_Para_1_F", {__ICE_gear_MG}},
+	{"U_BG_Guerilla2_3", {__ICE_gear_MG}},
+
+	// Sniper
+	//{"U_I_FullGhillie_ard", {__ICE_gear_Sniper}},
+	//{"U_I_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	//{"U_I_FullGhillie_sard", {__ICE_gear_Sniper}},
+
+// VESTS
+
+	// Infantry
+	//{"V_BandollierB_khk", {__ICE_gear_Sniper, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+	//{"V_BandollierB_cbr", {__ICE_gear_Sniper, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+	//{"V_BandollierB_rgr", {__ICE_gear_Sniper, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+	//{"V_BandollierB_blk", {__ICE_gear_Sniper, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+	//{"V_BandollierB_oli", {__ICE_gear_Sniper, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+
+	//{"V_Chestrig_oli", {__ICE_gear_Inf}},
+	//{"V_Chestrig_blk", {__ICE_gear_Inf}},
+	//{"V_Chestrig_rgr", {__ICE_gear_Inf}},
+	//{"V_Chestrig_khk", {__ICE_gear_Inf}},
+
+	//{"V_HarnessOGL_gry", {__ICE_gear_Grenadier}},
+	//{"V_HarnessOGL_brn", {__ICE_gear_Grenadier}},
+	//{"V_HarnessO_brn", {__ICE_gear_Inf}},
+	//{"V_HarnessO_gry", {__ICE_gear_Inf}},
+
+// HELMETS
+
+	{"H_Shemag_khk", {__ICE_gear_Diver}},
+	{"H_Shemag_olive", {__ICE_gear_Diver}},
+	{"H_Shemag_tan", {__ICE_gear_Diver}},
+
+	{"H_StrawHat_dark", {__ICE_gear_allRoles}},
+    {"H_StrawHat", {__ICE_gear_allRoles}},
+    {"H_Hat_tan", {__ICE_gear_allRoles}},
+    {"H_Hat_checker", {__ICE_gear_allRoles}},
+    {"H_Hat_brown", {__ICE_gear_allRoles}},
+    {"H_StrawHat", {__ICE_gear_allRoles}},
+
+	{"H_Bandanna_gry", {__ICE_gear_allRoles}},
+	{"H_Bandanna_cbr", {__ICE_gear_allRoles}},
+	{"H_Bandanna_sand", {__ICE_gear_allRoles}},
+	{"H_Bandanna_khk", {__ICE_gear_allRoles}},
+	{"H_Bandanna_sgg", {__ICE_gear_allRoles}},
+	{"H_Bandanna_blu", {__ICE_gear_allRoles}},
+	{"G_Balaclava_TI_blk_F", {__ICE_gear_Sniper, __ICE_gear_MG}},
+
+	{"H_Cap_red", {__ICE_gear_allRoles}},
+	{"H_Cap_blu", {__ICE_gear_allRoles}},
+	{"H_Cap_oli", {__ICE_gear_allRoles}},
+	{"H_Cap_tan", {__ICE_gear_allRoles}},
+	{"H_Cap_blk", {__ICE_gear_allRoles}}
+
+};
